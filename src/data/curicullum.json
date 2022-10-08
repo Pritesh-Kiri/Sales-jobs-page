@@ -1,0 +1,83 @@
+{
+  "Curicullumdata": [
+    {
+      "topic": " How To Sell Effectively In The VUCA World",
+      "weeks": "1 Weeks",
+      "casestudy": "1 Group Project",
+      "quiz": "2 Quizzes",
+      "description": "",
+      "chapter1": "Chapter 1: Impact of COVID on the sales approach",
+      "chapter2": "Chapter 2: How to build enduring customer relationships virtually?",
+      "chapter3": "Chapter 3: VUCA - Tackle Volatility, Uncertainty, Complexity and Ambiguity",
+      "chapter4": ""
+    },
+    {
+      "topic": "Customer Centricity In Sales Management ",
+      "weeks": "2 Week",
+      "casestudy": "1 Project",
+      "quiz": "1 Quiz",
+      "description": "",
+      "chapter1": "Chapter 1: Consumer journey mapping ",
+      "chapter2": "Chapter 2: Consumer Persona",
+      "chapter3": "Chapter 3: Creating, communicating and delivering value",
+      "chapter4": ""
+    },
+    {
+      "topic": "Understanding Sales Process",
+      "weeks": "2 Weeks",
+      "casestudy": "1 Casestudy",
+      "quiz": "4 Quizzes",
+      "description": "",
+      "chapter1": "Chapter 1: Enhance your selling and persuasion skills",
+      "chapter2": "Chapter 2: Steps in a sales process",
+      "chapter3": "Chapter 3: Manage your competitors",
+      "chapter4": "Chapter 4: Customer relationship management"
+    },
+    {
+      "topic": "How To Generate The Right Leads",
+      "weeks": "2 Weeks",
+      "casestudy": "1 Live Project",
+      "quiz": "4 Quizzes",
+      "description": "",
+      "chapter1": "Chapter 1: Build a strong & diverse network",
+      "chapter2": "Chapter 2: Develop partnerships and alliances",
+      "chapter3": "Chapter 3: Convert cold calls to meetings",
+      "chapter4": "Chapter 4: Effective communication with prospects",
+      "chapter5": "Chapter 5: Proactively pursue your prospects",
+      "chapter6": "Chapter 6: Manage the pipeline & generate accurate forecasts",
+      "chapter7": "Chapter 7: Networking through social media (Linkedin)"
+    },
+    {
+      "topic": "Managing Channel Partners",
+      "weeks": "1 Weeks",
+      "casestudy": "1 Group Project",
+      "quiz": "2 Quizzes",
+      "description": "",
+      "chapter1": "Chapter 1: Selecting and managing channel partners",
+      "chapter2": "Chapter 2: Multichannel approach in sales management",
+      "chapter3": "Chapter 3: Handle objections, concerns and constraints"
+    },
+    {
+      "topic": "Managing Sales Team",
+      "weeks": "2 Week",
+      "casestudy": "1 Project",
+      "quiz": "4 Quizzes",
+      "description": "",
+      "chapter1": "Chapter 1: Understanding sales team",
+      "chapter2": "Chapter 2: Leverage your marketing team",
+      "chapter3": "Chapter 3: Evaluating sales team performance ",
+      "chapter4": "Chapter 4: Building the right sales culture"
+    },
+    {
+      "topic": "Emerging Issues In Sales Management",
+      "weeks": "1 Weeks",
+      "casestudy": "1 Project",
+      "quiz": "1 Quizzes",
+      "description": "",
+      "chapter1": "Chapter 1: Managing diversity in sales management",
+      "chapter2": "Chapter 2: Managing inbound vs outbound marketing",
+      "chapter3": "Chapter 3: Technology in sales management",
+      "chapter4": "Chapter 4: Ethics in sales management"
+    }
+  ]
+}
